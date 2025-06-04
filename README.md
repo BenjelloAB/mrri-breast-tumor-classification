@@ -1,4 +1,4 @@
-# Image Classification Flask Server
+# MRI Breast Tumor Classification Model & Flask Server
 
 This project is a Flask backend server for image classification using a pretrained ResNet50-based deep learning model.  
 Users can upload an image, and the server returns a classification label (**Malignant** or **Benign**) along with a confidence score.
