@@ -7,6 +7,11 @@ import tensorflow as tf
 from tensorflow.keras.applications.resnet50 import preprocess_input
 from tensorflow.keras.models import load_model
 
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] ='2'  # 0 = all logs, 1 = info, 2 = warnings, 3 = errors only
+os.environ['TF_ENABLE_ONEDNN_OPTS']='0'
+
+
 # === Dummy Cast layer (for deserialization only) ===
 class Cast(tf.keras.layers.Layer):
     def call(self, inputs):

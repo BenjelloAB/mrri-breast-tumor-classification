@@ -163,10 +163,11 @@
       // result.textContent = "Résultat : " + data.prediction;
       result.textContent = `Résultat : ${data.prediction} (Confiance : ${data.confidence})`
 
-
-      if (data.prediction.toLowerCase().includes("aucun") || data.prediction.toLowerCase().includes("normal")) {
+      // console.log(data.prediction)
+      if (data.prediction.toLowerCase().includes("benign") || data.prediction.toLowerCase().includes("normal")) {
         result.className = "ok";
       } else {
+        // console.log("Here we are entering")
         result.className = "alert";
       }
     } catch (err) {
