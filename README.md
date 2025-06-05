@@ -29,7 +29,7 @@ Install them with:
 pip install -r requirements.txt
 ```
 ---
-## ⚙️ References :
+## 🔗 References :
 - Rapport : [DOCS LINK](https://docs.google.com/document/d/1VJ2c6Lnl3aVIP2K-Pmrbv-oRDVnuVawr4y-h80OQOD8/edit?usp=sharing)<br>
 - Dataset Kaggle Cleaned and Splitted : [Kaggle Dataset](https://www.kaggle.com/datasets/abenjelloun/breast-mri-tumor-classification-dataset)<br>
 - Source of MRIs : [NCIA Archive](https://www.cancerimagingarchive.net/collection/breast-diagnosis/)<br>
