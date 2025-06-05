@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 ---
 ## ⚙️ References :
-- Rapport : [DOCS LINK](https://docs.google.com/document/d/1d1XFF3STLU7m9i3RSE8XJDk011o8tbl0FfrOKNpLKyU/edit?usp=sharing)<br>
+- Rapport : [DOCS LINK](https://docs.google.com/document/d/1VJ2c6Lnl3aVIP2K-Pmrbv-oRDVnuVawr4y-h80OQOD8/edit?usp=sharing)<br>
 - Dataset Kaggle Cleaned and Splitted : [Kaggle Dataset](https://www.kaggle.com/datasets/abenjelloun/breast-mri-tumor-classification-dataset)<br>
 - Source of MRIs : [NCIA Archive](https://www.cancerimagingarchive.net/collection/breast-diagnosis/)<br>
 - POSTER : [Link](https://drive.google.com/file/d/1GdiZW4k8mSQh02fT45M4cyL5zduULjYS/view?usp=sharing)
